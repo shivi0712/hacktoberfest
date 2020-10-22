@@ -120,6 +120,7 @@ Hacktoberfest is open to everyone in our global community! Four quality pull req
 - [Ikbal Hanafi](https://github.com/ikbal-hanafi)
 - [Naka Rapstar](https://github.com/Nakasz)
 - [Dhiva Tiradika](https://github.com/dhivatiradika)
+- [Shivangi Raj](https://github.com/shivi0712)
 
 ## How to contribute
 
